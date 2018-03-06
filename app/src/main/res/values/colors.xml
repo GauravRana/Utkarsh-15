@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="abc_search_url_text_normal">#7fa87f</color>
+    <color name="abc_search_url_text_selected">?unknown_ref: 106000c</color>
+    <color name="abc_search_url_text_pressed">?unknown_ref: 106000c</color>
+    <color name="purple_light">#b0ffffff</color>
+    <color name="purple_middle">#ffffff</color>
+    <color name="purple_dark">#ffffff</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="white">#ffffff</color>
+    <color name="light_grey">#f8f8f8</color>
+    <color name="tab_highlight">#ffffff</color>
+    <color name="actionbar_text">#ffffff</color>
+    <color name="abc_search_url_text_holo">res/color/abc_search_url_text_holo.xml</color>
+</resources>

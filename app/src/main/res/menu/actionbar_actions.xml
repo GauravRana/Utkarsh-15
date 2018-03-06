@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res-auto">
+    <item myapp:icon="@drawable/event_menu_ic" myapp:id="@+id/action_list_events" myapp:title="@string/action_menu_btn" myapp:showAsAction="ifRoom" />
+</menu>

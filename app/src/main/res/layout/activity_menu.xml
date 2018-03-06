@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:background="#ffffff" android:layout_width="wrap_content" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:background="@color/purple_dark" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <Button android:id="@+id/bUtkarsh" android:background="@drawable/menu_button_selector" android:paddingLeft="50dp" android:paddingRight="20dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Utkarsh" android:drawableLeft="@drawable/uttkarsh_btn" />
+        <Button android:id="@+id/bEvents" android:background="@drawable/menu_button_selector" android:paddingLeft="50dp" android:paddingRight="20dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Events" android:drawableLeft="@drawable/events_btn" />
+        <Button android:id="@+id/bReg" android:background="@drawable/menu_button_selector" android:paddingLeft="50dp" android:paddingRight="20dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Register" android:drawableLeft="@drawable/register_btn" />
+        <Button android:id="@+id/bLoc" android:background="@drawable/menu_button_selector" android:paddingLeft="50dp" android:paddingRight="20dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Location" android:drawableLeft="@drawable/location_btn" />
+        <Button android:id="@+id/bInfo" android:background="@drawable/menu_button_selector" android:paddingLeft="50dp" android:paddingRight="20dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="About" android:drawableLeft="@drawable/info_btn" />
+        <Button android:id="@+id/bWeb" android:background="@drawable/menu_button_selector" android:paddingLeft="50dp" android:paddingRight="20dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Website" android:drawableLeft="@drawable/web" />
+        <Button android:id="@+id/bSpons" android:background="@drawable/menu_button_selector" android:paddingLeft="50dp" android:paddingRight="20dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Sponsors" android:drawableLeft="@drawable/sponsor_ic" />
+        <Button android:id="@+id/bContacts" android:background="@drawable/menu_button_selector" android:paddingLeft="50dp" android:paddingRight="20dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Contacts" android:drawableLeft="@drawable/contacts" />
+        &quot;
+    </LinearLayout>
+</ScrollView>

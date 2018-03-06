@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <raw name="aesthetica">res/raw/aesthetica</raw>
+    <raw name="alt_intro">res/raw/alt_intro</raw>
+    <raw name="canvasia">res/raw/canvasia</raw>
+    <raw name="contacts">res/raw/contacts</raw>
+    <raw name="crack">res/raw/crack</raw>
+    <raw name="cs">res/raw/cs</raw>
+    <raw name="dex_intro">res/raw/dex_intro</raw>
+    <raw name="dharohar">res/raw/dharohar</raw>
+    <raw name="dramaturgy">res/raw/dramaturgy</raw>
+    <raw name="fifa">res/raw/fifa</raw>
+    <raw name="fix">res/raw/fix</raw>
+    <raw name="footloose">res/raw/footloose</raw>
+    <raw name="hack">res/raw/hack</raw>
+    <raw name="logo_logic">res/raw/logo_logic</raw>
+    <raw name="nfs">res/raw/nfs</raw>
+    <raw name="rhetorical">res/raw/rhetorical</raw>
+    <raw name="spiel">res/raw/spiel</raw>
+    <raw name="tekken">res/raw/tekken</raw>
+    <raw name="trivpursuit">res/raw/trivpursuit</raw>
+    <raw name="unplug">res/raw/unplug.txt</raw>
+    <raw name="utkarsh">res/raw/utkarsh</raw>
+    <raw name="video">res/raw/video</raw>
+    <raw name="vogue">res/raw/vogue</raw>
+    <raw name="webw">res/raw/webw</raw>
+    <raw name="wtb">res/raw/wtb</raw>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:background="@drawable/back11" android:layout_width="match_parent" android:layout_height="match_parent">
+    <RelativeLayout android:paddingLeft="@dimen/activity_horizontal_margin" android:paddingTop="@dimen/activity_vertical_margin" android:paddingRight="@dimen/activity_horizontal_margin" android:paddingBottom="@dimen/activity_vertical_margin" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:orientation="horizontal" android:id="@+id/u_timer" android:background="@drawable/circle" android:layout_width="UNKNOWN_DATA_0xfa01" android:layout_height="UNKNOWN_DATA_0xfa01" android:layout_centerHorizontal="true">
+            <TextView android:textSize="24sp" android:textStyle="bold" android:textColor="#a047a3ff" android:id="@+id/time" android:layout_width="wrap_content" android:layout_height="UNKNOWN_DATA_0x1e01" />
+        </LinearLayout>
+        <RelativeLayout android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:paddingTop="100dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_below="@+id/u_timer">
+            <Button android:textColor="#ffffff" android:id="@+id/intro_btn" android:background="@drawable/rect_button_selector" android:layout_width="UNKNOWN_DATA_0x9601" android:layout_height="UNKNOWN_DATA_0x2801" android:text="more" />
+        </RelativeLayout>
+    </RelativeLayout>
+</ScrollView>

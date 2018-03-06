@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="a_cell_no">9418018794</string>
+    <string name="b_cell_no">9805019138</string>
+    <string name="c_cell_no">8894441329</string>
+    <string name="d_cell_no">9418580891</string>
+    <string name="e_cell_no">9418018794</string>
+    <string name="app_name">Utkarsh15</string>
+    <string name="action_settings">About</string>
+    <string name="action_menu_btn"></string>
+    <string name="up_now">Utkarsh\'15</string>
+    <string name="aboutText">Utkarsh 2015 official app\nDevelopers\n\nGaurav Rana\nMohit Sharma\nDikshant Sharma\nGirish Sharma</string>
+    <string name="locText">University Institute of Information Technology is located at Netaji Subash Chandra Bose Bhavan, IInd Basement, HPU, Summerhill, Shimla, Himachal Pradesh 171005</string>
+    <string name="regText">Registration open till May 15</string>
+</resources>

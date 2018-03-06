@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:background="@drawable/back_blur" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ScrollView android:background="#c0606060" android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+            <TextView android:textSize="20sp" android:textColor="#c0ffffff" android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:paddingTop="10dp" android:paddingBottom="15dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Contacts" />
+            <LinearLayout android:orientation="horizontal" android:padding="10dp" android:layout_width="match_parent" android:layout_height="wrap_content"
+                <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+                    <TextView android:textColor="#ffffff" android:layout_width="match_parent" android:layout_height="match_parent" android:text="Abhishek Kapoor Tutania
+President" />
+                </LinearLayout>
+                <LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="2.0">
+                    <Button android:textColor="#ffffff" android:id="@+id/bcall_a" android:background="@drawable/call_button_selector" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x1901" android:text="call" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:padding="10dp" android:layout_width="match_parent" android:layout_height="wrap_content"
+                <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+                    <TextView android:textColor="#ffffff" android:layout_width="match_parent" android:layout_height="match_parent" android:text="Chirag Sharma
+Vice-President" />
+                </LinearLayout>
+                <LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="2.0">
+                    <Button android:textColor="#ffffff" android:id="@+id/bcall_b" android:background="@drawable/call_button_selector" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x1901" android:text="call" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:padding="10dp" android:layout_width="match_parent" android:layout_height="wrap_content"
+                <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+                    <TextView android:textColor="#ffffff" android:layout_width="match_parent" android:layout_height="match_parent" android:text="Divjot Singh Sodhi
+Finance Secretary" />
+                </LinearLayout>
+                <LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="2.0">
+                    <Button android:textColor="#ffffff" android:id="@+id/bcall_c" android:background="@drawable/call_button_selector" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x1901" android:text="call" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:padding="10dp" android:layout_width="match_parent" android:layout_height="wrap_content"
+                <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+                    <TextView android:textColor="#ffffff" android:layout_width="match_parent" android:layout_height="match_parent" android:text="Kiran Verma
+General Secretary" />
+                </LinearLayout>
+                <LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="2.0">
+                    <Button android:textColor="#ffffff" android:id="@+id/bcall_d" android:background="@drawable/call_button_selector" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x1901" android:text="call" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:padding="10dp" android:layout_width="match_parent" android:layout_height="wrap_content"
+                <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+                    <TextView android:textColor="#ffffff" android:layout_width="match_parent" android:layout_height="match_parent" android:text="Shalini Thakur
+Joint Secretary" />
+                </LinearLayout>
+                <LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="2.0">
+                    <Button android:textColor="#ffffff" android:id="@+id/bcall_e" android:background="@drawable/call_button_selector" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x1901" android:text="call" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
